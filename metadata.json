@@ -1,0 +1,8 @@
+{
+  "name": "LevelUp: AI Learning & Habit Companion",
+  "description": "A gamified habit tracker and learning companion with dynamic UI, evolutionary avatars, and AI-powered insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
